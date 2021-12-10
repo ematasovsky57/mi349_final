@@ -7,3 +7,7 @@ html{
 .introduction{
     background-color: white;
 }
+header{
+    background-color: white;
+    margin: 10px;
+}
