@@ -8,6 +8,7 @@ html{
     background-color: white;
 }
 header{
+    display: inline;
     background-color: white;
     margin: 10px;
 }
