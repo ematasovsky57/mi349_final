@@ -11,6 +11,7 @@ html{
 header{
     background-color: white;
     margin: 10px;
+    padding: 20px;
 }
 section{
     display: flex;
