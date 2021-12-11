@@ -24,6 +24,7 @@ h4{
 }
 .blogposts{
     display: flex;
+    border-color: 10px dotted rgb(51, 255, 0);
 }
 .blogindividual{
     flex: 1 1 200px;
@@ -43,7 +44,7 @@ h2{
     }
     .blogindividual{
         flex-direction: column;
-        border-bottom: 40px solid rgb(1, 44, 1);
+        border-bottom: 20px solid rgb(1, 44, 1);
     }
 
 
