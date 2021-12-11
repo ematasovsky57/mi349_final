@@ -34,6 +34,12 @@ h4{
     width: 20px;
     background-color: rgb(1,44,1);
 }
+.wholepage{
+    display: flex;
+}
+.aboutpages{
+    flex: 1 1 200px;
+}
 h2{
     width: 120px;
     background-color: white;
