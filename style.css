@@ -40,6 +40,7 @@ h2{
     .blogposts{
         display: flex;
         flex-direction: column;
+        border-bottom: 20px solid rgb(1, 44, 1);
     }
     .blogindividual{
         flex-direction: column;
