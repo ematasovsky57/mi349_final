@@ -55,6 +55,13 @@ h2{
         flex-direction: column;
         border-bottom: 20px solid rgb(1, 44, 1);
     }
-
+    .wholepage{
+        display: flex;
+        flex-direction: column;
+    }
+    .aboutpages{
+        flex-direction: column;
+        border-bottom: 20px solid rgb(1, 44, 1);
+    }
 
 }
