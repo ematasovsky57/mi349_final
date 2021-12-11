@@ -11,3 +11,6 @@ header{
     background-color: white;
     margin: 10px;
 }
+section{
+    display: flex
+}
