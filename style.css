@@ -24,3 +24,6 @@ h4{
 .blogposts{
     display: flex;
 }
+.blogindividual{
+    flex: 1 1 auto;
+}
