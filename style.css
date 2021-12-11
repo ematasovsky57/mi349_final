@@ -27,7 +27,7 @@ h4{
 }
 .blogindividual{
     flex: 1 1 200px;
-    border-color: 10px dotted rgb(51, 255, 0);
+    border: 10px dotted rgb(51, 255, 0);
 }
 .divider{
     width: 20px;
