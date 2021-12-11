@@ -21,3 +21,6 @@ section{
 h4{
     padding: 5px;
 }
+.blogposts{
+    display: flex;
+}
