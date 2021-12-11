@@ -35,6 +35,9 @@ h4{
     background-color: white;
     padding: 5px;
 }
+.introduction{
+    font-size: x-large;
+}
 .divider{
     width: 20px;
     background-color: rgb(1,44,1);
