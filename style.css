@@ -54,6 +54,10 @@ h2{
     background-color: white;
     padding: 10px;
 }
+.examples{
+    text-align: center;
+    border: 5px dashed rgb(51, 255, 0);
+}
 @media (max-width:600px){
     .blogposts{
         display: flex;
