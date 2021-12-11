@@ -28,6 +28,8 @@ h4{
 .blogindividual{
     flex: 1 1 200px;
     border: 5px dashed rgb(51, 255, 0);
+    line-height: 1.2;
+    font-size: 1.2;
     padding: 10px;
 }
 .borderthis{
