@@ -4,6 +4,7 @@ html{
 .blogs{
     background-color: white;
     display:flex;
+    flex-direction: row;
 }
 .introduction{
     background-color: white;
