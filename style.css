@@ -43,6 +43,7 @@ h4{
 h2{
     width: 120px;
     background-color: white;
+    padding: 10px;
 }
 @media (max-width:400px){
     .blogposts{
