@@ -29,6 +29,7 @@ h4{
     flex: 1 1 200px;
     border: 5px dashed rgb(51, 255, 0);
     padding: 10px;
+    margin: 10px;
 }
 .divider{
     width: 20px;
