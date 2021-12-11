@@ -3,6 +3,7 @@ html{
 }
 .blogs{
     background-color: white;
+    display:flex;
 }
 .introduction{
     background-color: white;
@@ -12,5 +13,5 @@ header{
     margin: 10px;
 }
 section{
-    display: flex
+    display: flex;
 }
