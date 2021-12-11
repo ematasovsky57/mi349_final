@@ -31,6 +31,9 @@ h4{
     padding: 10px;
     margin: 10px;
 }
+.borderthis{
+    background-color: white;
+}
 .divider{
     width: 20px;
     background-color: rgb(1,44,1);
