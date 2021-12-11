@@ -58,6 +58,7 @@ h4{
     text-align: center;
     border: 5px dashed rgb(51, 255, 0);
     padding: 10px;
+    width: 200px;
 }
 @media (max-width:600px){
     .blogposts{
