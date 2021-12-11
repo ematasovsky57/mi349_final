@@ -24,7 +24,6 @@ h4{
 }
 .blogposts{
     display: flex;
-    flex: 1 1 200px;
 }
 .blogindividual{
     flex: 1 1 200px;
