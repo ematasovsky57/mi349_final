@@ -59,7 +59,7 @@ h4{
     border: 5px dashed rgb(51, 255, 0);
     padding: 10px;
     width: 200px;
-    justify-content: center;
+    vertical-align: middle;
 }
 @media (max-width:600px){
     .blogposts{
