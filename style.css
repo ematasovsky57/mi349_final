@@ -28,3 +28,7 @@ h4{
 .blogindividual{
     flex: 1 1 200px;
 }
+.divider{
+    width: 20px;
+    background-color: rgb(1,44,1);
+}
