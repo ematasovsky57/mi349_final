@@ -49,14 +49,16 @@ h4{
 .aboutpages{
     flex: 1 1 200px;
 }
-h2{
+.title{
     width: 120px;
     background-color: white;
     padding: 10px;
 }
 .examples{
+    background-color: white;
     text-align: center;
     border: 5px dashed rgb(51, 255, 0);
+    padding: 10px;
 }
 @media (max-width:600px){
     .blogposts{
